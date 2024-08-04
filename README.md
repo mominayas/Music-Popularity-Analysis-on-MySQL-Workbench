@@ -65,9 +65,13 @@ The following queries were run on the schema:
 Each query provided valuable insights into the dataset:
 
 **Query 1: Analyzed the distribution of solo vs. collaboration songs.**
+
 **Query 2: Identified the top songs with the highest year-end scores across different years.**
+
 **Query 3: Found the songs with the highest chart rankings.**
+
 **Query 4: Listed the most popular songs in 2018.**
+
 **Query 5: Counted the number of popular songs by Ed Sheeran in 2018.**
 
 ## Conclusion
